@@ -1,7 +1,6 @@
 package games;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Dice {
 
@@ -9,7 +8,7 @@ public class Dice {
 
 
     //constructor,anropas med keyword new
-    public Dice (int numOfSides){
+    public Dice(int numOfSides){
         this.numOfSides = numOfSides;
     }
 
